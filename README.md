@@ -1,7 +1,7 @@
 Hello, World!
 =============
 
-<p align='center'>🇪🇸 ¡Hola!　🇬🇧 Hello!　🇫🇷 Salut!　🇷🇺 Привет!　🇯🇵 こんにちは！</p>
+<p align='center'>🇪🇸 ¡Hola!　🇬🇧 Hello!　🇫🇷 Salut!　🇯🇵 こんにちは！</p>
 
 I'm a passionate computer nerd who enjoys going one layer too deep. I'm
 particularly interested in the study and design of operating systems, computer
